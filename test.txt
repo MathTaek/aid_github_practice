@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modify_2
+=======
+modifyfile1
+>>>>>>> mylocal
