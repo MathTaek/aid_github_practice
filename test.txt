@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-modify_2
-=======
-modifyfile1
->>>>>>> mylocal
+main_hello1
+push_hello1
